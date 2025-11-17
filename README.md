@@ -9,7 +9,7 @@
 ## Live API URL
 
 **Your Blog CMS is LIVE at:**  
-🔗 [https://blog-cms-empire-victorion014-ao8hd56q.leapcell.dev](https://blog-cms-empire-victorion014-ao8hd56q.leapcell.dev)
+🔗 [https://blog-cms-empire-victorion0-ao8hd56q.leapcell.dev](https://blog-cms-empire-victorion0-ao8hd56q.leapcell.dev)
 
 ---
 
